@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://commercial-lighting-oman.alwejhagroup.com/sitemap.xml
